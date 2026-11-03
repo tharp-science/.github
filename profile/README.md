@@ -1,4 +1,4 @@
-# THARP — Thyke Applied Research & Prototyping
+# THARP / Thyke Applied Research & Prototyping
 
 Two people can look at the same evidence and reach different conclusions. THARP studies what happens when people and AI produce knowledge together: how findings emerge, how interpretations diverge, and what gets lost when systems turn them into a single answer.
 
