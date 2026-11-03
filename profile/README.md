@@ -8,7 +8,7 @@ THARP is a not-for-profit applied research programme run by [Thyke i/c/w Commons
 
 ## Work
 
-| | | |
+| Type | What | Link |
 |---|---|---|
 | **Working paper** | *Governing Epistemic Systems* — Primitive Interaction and the Structural Dynamics of Distributed Authority. The companion preprint reporting findings from the simulation laboratory. | [SSRN](https://doi.org/10.2139/ssrn.6417898) |
 | **Simulation laboratory** | **epilab** — agent-based experiments investigating when systems of shared knowledge break down, and whether governance arrangements change how they fail. Code, experiment configurations and methods are available to inspect. | [epilab](https://github.com/tharp-science/epilab) |
